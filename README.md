@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sknoyon324234234234&label=VISITORS&color=00ff41&style=for-the-badge" alt="visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sknoyon324234234234.profile&left_text=VISITORS&left_color=%23000000&right_color=%2300a82d" alt="visitors" />
   <a href="https://xiraiya.shop/"><img src="https://img.shields.io/badge/SITE-xiraiya.shop-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff41&labelColor=000000" alt="website" /></a>
   <img src="https://img.shields.io/badge/NODE-Bangladesh-0d1117?style=for-the-badge&logo=openstreetmap&logoColor=00ff41&labelColor=000000" alt="location" />
 </p>
