@@ -23,3 +23,7 @@
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
 </p>
+
+<p align="center">
+  <sub>pixel art made with <a href="https://github.com/sknoyon324234234234/pixel-profile">pixel-profile</a>: make your own in one command</sub>
+</p>
